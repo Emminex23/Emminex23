@@ -9,6 +9,6 @@ You can connect with me on:
 
 - Twitter: [emminexparadox](https://twitter.com/emminexparadox)
 - LinkedIn: [Emmanuel Oyibo](https://www.linkedin.com/in/emmanueloyibo2394/)
-- I document my tech journey on [Tiktok](https://www.tiktok.com/@emminex_) 
+- I document my Software Engineering journey on [Tiktok](https://www.tiktok.com/@emminex_) 
 
 🥂 Cheers!
