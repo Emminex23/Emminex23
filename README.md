@@ -15,9 +15,9 @@ When I'm not elbows-deep in code, you can find me brushing up on the latest SEO 
 
 I'm a firm believer in collaboration and the sharing of ideas, so please feel free to connect with me:
 
-LinkedIn: [@Emmanuel Oyibo](https://www.linkedin.com/in/emmanueloyibo2394/)
+- LinkedIn: [@Emmanuel Oyibo](https://www.linkedin.com/in/emmanueloyibo2394/)
 
-Twitter: [@emminexparadox](https://twitter.com/emminexparadox)
+- Twitter: [@emminexparadox](https://twitter.com/emminexparadox)
 
 And check out my technical articles on [Hashnode](https://emminex.hashnode.dev/).
 
