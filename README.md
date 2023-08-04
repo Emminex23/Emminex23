@@ -10,6 +10,6 @@ You can connect with me on:
 - LinkedIn: [Emmanuel Oyibo](https://www.linkedin.com/in/emmanueloyibo2394/)
 - Twitter: [emminexparadox](https://twitter.com/emminexparadox)
 
-I write Technical Articles on [Hashnode](https://emminex.hashnode.dev/) 
+Read my Technical Articles on [Hashnode](https://emminex.hashnode.dev/) 
 
 🥂 Cheers!
