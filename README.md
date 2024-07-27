@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 - Currently learning to be a software engineer at ALX Africa. I'm obsessed with how technology works and love building cool things.
-- Python and Linux are my jam! I'm also getting into DevOps to make my code run smoothly in the real world.
+- Python, Kubernetes, Docker, and Linux are my jam!
 - Not just about the code – I'm always figuring out how to solve problems in the smartest way possible.
 - My background in technical writing means I care about clean, readable code and explaining how it works.
 - I also write about code and tech stuff on [Hashnode](https://emminex.hashnode.dev/) – check it out!
