@@ -64,11 +64,6 @@ A head-to-head that engineering leads can hand to their team to make an actual p
 
 ## Tutorial Videos
 
-<!-- TODO: Replace the line below with a 6-second GIF preview of your best screencast.
-     Save the GIF in this repo as demo.gif and the line becomes:  ![demo](./demo.gif) -->
-
-> **▶ [Preview GIF goes here — see action checklist]**
-
 Product walkthroughs, feature demos, and code-along screencasts that pair with written docs to cut onboarding time and reduce support load.
 
 [View the video portfolio →](https://docs.google.com/document/d/13ENPkxCiHiJNmeNa6aAPLRzCNDMbTXCqH29ogJM_-eg/edit?usp=sharing)
