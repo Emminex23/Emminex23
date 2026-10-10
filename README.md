@@ -1,142 +1,49 @@
 # Emmanuel Oyibo
 
-### Technical Writer for AI/ML, DevOps & developer platforms — API docs, tutorials, and video that developers actually finish.
+**Technical Writer · APIs, AI developer tools & cloud infrastructure**
 
-Your developers are shipping faster than your documentation can keep up. Features launch without guides. APIs go undocumented. New users open support tickets instead of reading docs that don't exist yet.
+**[Top Rated Plus on Upwork](https://www.upwork.com/freelancers/~014ca5dc3609848174)**
 
-**I fix that.**
+I write documentation and tutorials that help developers integrate APIs, build with AI tools, and operate cloud infrastructure. My approach starts with the implementation: work through the setup, test the examples, and explain the steps a reader needs to succeed.
 
-I'm a technical writer who builds and tests before writing. Before I document a Kubernetes deployment, CI/CD pipeline, or API integration, I run through it hands-on — which is why I maintain a **95% first-submission editorial approval rate** and helped one client grow organic traffic by **30% in 6 months**.
+My published work includes guides for **Baeldung, Vultr, and Cherry Servers**. Here you'll find selected articles, documentation case studies, and the code behind my tutorials.
 
-Over the last 5+ years I've published **100+ technical articles, tutorials, and API references** for platforms reaching millions of developers — Baeldung (10M+/mo), Vultr (1M+ devs), Cherry Servers, SmythOS, MCPevals, Hostman, LinuxOpSys, and Warp's Terminus.
+[Writing case studies](https://github.com/Emminex23/docs-case-studies) · [LinkedIn](https://www.linkedin.com/in/emmanueloyibo/) · [Email](mailto:oyiboemmanuel2394@gmail.com)
 
-I specialize in **AI/ML documentation** — LLM workflows, agent frameworks, and the Model Context Protocol (MCP) — backed by deep **DevOps and cloud-infrastructure** chops (Docker, Kubernetes, CI/CD, AWS, bare metal). If your product runs AI in production, I can document both the model *and* the infrastructure it rides on.
+## Selected writing
 
-[![Hire me on Upwork](https://img.shields.io/badge/Hire%20me%20on-Upwork-14a800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~014ca5dc3609848174)
-[![Email](https://img.shields.io/badge/Email-oyiboemmanuel2394%40gmail.com-d14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oyiboemmanuel2394@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanueloyibo/)
+| Sample | Publication | What it demonstrates |
+| --- | --- | --- |
+| [CI/CD Best Practices](https://www.baeldung.com/ops/ci-cd-best-practices) | Baeldung | Explaining reliable builds, testing strategies, consistent environments, and pipeline monitoring. |
+| [Monitoring Kubernetes CPU and Memory with Prometheus](https://www.baeldung.com/ops/prometheus-cpu-memory-kubernetes) | Baeldung | Guiding readers through setup, a sample workload, and PromQL queries. |
+| [OpenShift vs Kubernetes on Bare Metal](https://www.cherryservers.com/blog/openshift-vs-kubernetes-on-bare-metal) | Cherry Servers | Comparing platform architecture, operational requirements, and costs to support a technical decision. |
 
----
+Explore more published work: [Baeldung](https://www.baeldung.com/author/emmanueloyibo) · [Vultr](https://docs.vultr.com/author/emmanuel-oyibo) · [Cherry Servers](https://www.cherryservers.com/blog/authors/emmanuel-oyibo)
 
-## Featured Work
+## Documentation & code
 
-Three pieces that show how I think, not just what I've shipped. Full case studies in my [**docs-case-studies**](https://github.com/Emminex23/docs-case-studies) repo.
+- **[Documentation case studies](https://github.com/Emminex23/docs-case-studies)** — The brief, approach, and outcomes behind selected writing projects.
+- **[Notion integration with Nango and Claude](https://github.com/Emminex23/blog-demos/tree/main/how-to-build-a-notion-api-integration-using-nango-and-claude)** — A companion demo covering OAuth, page synchronization, and an AI assistant using tools through MCP, with setup instructions.
+- **[HubSpot contact synchronization](https://github.com/Emminex23/blog-demos/tree/main/how-to-sync-large-amounts-of-contacts-from-hubspot-api)** — An API integration example with sync checkpoints, webhook handling, and a local dashboard.
+- **[Dockerized Node.js application](https://github.com/Emminex23/simple-dockerized-nodejs-app)** — A focused example of packaging and running an Express application with Docker.
 
-### CI/CD Best Practices — Baeldung
-`DevOps · decision framework · 10M+ monthly readers`
+## What I can help with
 
-A cornerstone reference on CI/CD covering build reliability, secrets, observability, and deployment patterns. Written for senior engineers designing pipelines, not just configuring them.
+- **API & developer documentation:** integration guides, API references, SDK walkthroughs, and quickstarts.
+- **AI developer education:** LLM workflows, agent frameworks, Model Context Protocol (MCP), and RAG tutorials.
+- **Cloud & DevOps content:** Docker, Kubernetes, Linux, CI/CD, and infrastructure guides.
+- **Product education:** onboarding documentation, knowledge bases, and technical video walkthroughs.
 
-[Read on Baeldung →](https://www.baeldung.com/ops/ci-cd-best-practices)
+[View tutorial video portfolio](https://docs.google.com/document/d/13ENPkxCiHiJNmeNa6aAPLRzCNDMbTXCqH29ogJM_-eg/edit?usp=sharing)
 
-### Monitoring Kubernetes Pods with Prometheus — Baeldung
-`Kubernetes · observability · AI infra foundation`
+## Tools I work with
 
-Hands-on guide pairing PromQL with the K8s metrics model. Foundational for anyone running inference or training workloads on Kubernetes.
+- **Documentation:** Markdown, Git, MkDocs, Docusaurus, OpenAPI/Swagger, Postman.
+- **Code & infrastructure:** Python, JavaScript, Bash, Docker, Kubernetes, GitHub Actions, AWS.
+- **AI tooling:** OpenAI, Anthropic, LangChain, MCP.
 
-[Read on Baeldung →](https://www.baeldung.com/ops/prometheus-cpu-memory-kubernetes)
+## Work with me
 
-### OpenShift vs Kubernetes on Bare Metal — Cherry Servers
-`Architecture · decision doc · senior-engineer audience`
+I'm interested in technical writing projects, ongoing documentation partnerships, and opportunities to help developer teams explain their products clearly.
 
-A head-to-head that engineering leads can hand to their team to make an actual platform choice. Covers operational cost, compliance, and day-2 ops — not feature bullets.
-
-[Read on Cherry Servers →](https://www.cherryservers.com/blog/openshift-vs-kubernetes-on-bare-metal)
-
-<details>
-<summary><b>Browse all published work</b> — 100+ articles across 9 platforms</summary>
-
-<br>
-
-- [**Baeldung**](https://www.baeldung.com/author/emmanueloyibo) — 30+ DevOps, Linux, and CS deep dives (10M+ monthly visitors)
-- [**Vultr Docs**](https://docs.vultr.com/author/emmanuel-oyibo) — tutorials serving 1M+ developers
-- [**Cherry Servers**](https://www.cherryservers.com/blog/authors/emmanuel-oyibo) — 50+ cloud infrastructure & bare-metal guides
-- [**Hostman**](https://hostman.com/tutorials/authors/emmanuel-oyibo/) — Docker, Node.js, Linux administration
-- [**LinuxOpSys**](https://linuxopsys.com/author/emmanuelo) — Linux & Docker tutorials
-- [**SmythOS**](https://smythos.com/people/emmanuel-oyibo/) — AI agent development docs
-- [**MCPevals.io**](https://www.mcpevals.io/) — Model Context Protocol evaluation tooling
-- [**Terminus by Warp**](https://www.warp.dev/terminus) — terminal & CLI tooling
-- [**Hashnode**](https://emminex.hashnode.dev/) — personal technical blog
-
-</details>
-
----
-
-## Tutorial Videos
-
-Product walkthroughs, feature demos, and code-along screencasts that pair with written docs to cut onboarding time and reduce support load.
-
-[View the video portfolio →](https://docs.google.com/document/d/13ENPkxCiHiJNmeNa6aAPLRzCNDMbTXCqH29ogJM_-eg/edit?usp=sharing)
-
----
-
-## What I Write & Produce
-
-- **AI/ML & LLM documentation** — prompt engineering, agent frameworks, MCP server docs, RAG pipelines
-- **API & SDK documentation** — OpenAPI/Swagger specs, reference guides, integration walkthroughs
-- **Developer tutorials** — Docker, Kubernetes, CI/CD, Linux, cloud infrastructure
-- **SaaS product docs** — onboarding flows, help centers, knowledge-base architecture
-- **Technical tutorial videos** — walkthroughs, feature demos, code-along screencasts
-- **Long-form content** — whitepapers, architecture deep-dives, release notes, SEO-optimized posts
-
-## Stack
-
-**AI/ML:** OpenAI · Anthropic · LangChain · Model Context Protocol · Prompt engineering · RAG
-**DevOps & Infra:** Docker · Kubernetes · Jenkins · GitHub Actions · GitLab CI · Ansible · Terraform
-**Cloud:** AWS · Azure · Linux administration · Bare metal
-**Docs tooling:** Markdown · MkDocs · Docusaurus · Hugo · Confluence · Git
-**API tooling:** OpenAPI/Swagger · Postman
-**Languages:** Python · JavaScript · Bash · YAML · JSON
-
----
-
-## Results
-
-Every number below is tied to a real engagement — client names available on request.
-
-- **100+ articles** published across 9 developer platforms
-- **95% first-submission editorial approval rate** — I build and test before I write
-- **30% lift in organic traffic** on the Cherry Servers blog (6-month program, 2025)
-- **40% reduction in onboarding time** at MCPevals.io after an end-to-end tutorial series (AI/ML tooling)
-- **Upwork:** Top Rated · 100% Job Success · 23 completed contracts · 159 hours tracked
-
-**What clients say on Upwork** *(from verified reviews)*:
-
-> *"Emmanuel is awesome to work with. He needs minimal direction, does the work, meets the deadline, and there's no drama and no issues. I'm a returning customer."*
-> — Technical book editor · Python / Java / SQL / JavaScript project
-
-> *"Knowledgeable and fast worker."*
-> — AI Agent Development client (SaaS)
-
-> *"He followed what I asked for to a tee, and the deliverable met my expectations."*
-> — Coding-book ghostwriter · Python
-
-Upwork-verified client tags from my reviews: *Committed to Quality · Reliable · Collaborative · Accountable for Outcomes · Clear Communicator · Detail Oriented*.
-
----
-
-## Currently Open To
-
-- Long-term technical writing retainers (AI/ML, DevOps, SaaS)
-- API documentation projects and SDK launches
-- Technical tutorial video production
-- DevRel and developer advocacy content
-
-**Response time:** 0–4 hours · **Availability:** 30+ hrs/week · **Time zones:** US / EU friendly · **Open to:** contract-to-hire
-
----
-
-## Credentials
-
-- **AWS Cloud Computing** (in progress, 2025–2026) — ALX Africa, powered by AWS. AWS Cloud Practitioner + Solutions Architect Associate tracks.
-- **B.Sc. Biochemistry** — Kogi State University, Nigeria.
-
----
-
-## Work Together
-
-- **Upwork:** [Hire me](https://www.upwork.com/freelancers/~014ca5dc3609848174) — $60/hr · Top Rated · 100% JSS
-- **Email:** [oyiboemmanuel2394@gmail.com](mailto:oyiboemmanuel2394@gmail.com)
-- **LinkedIn:** [emmanueloyibo](https://www.linkedin.com/in/emmanueloyibo/)
-
-*If your product is technical and your docs don't match, let's fix that.*
+For project inquiries or technical writing roles, contact me by [email](mailto:oyiboemmanuel2394@gmail.com) or [LinkedIn](https://www.linkedin.com/in/emmanueloyibo/). You can also [work with me on Upwork, where I'm Top Rated Plus](https://www.upwork.com/freelancers/~014ca5dc3609848174).
